@@ -9,7 +9,7 @@
 - Şu an 9. Sınıftan 10. sınıfa geçtim. VisuaL Studio Code ile C dersleri çalışmaktayım.
 - Daha önce Arduino çalışmalarım oldu. Çeşitli sensörele ve robotik konularında çalıştım.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas9461&layout=compact&show_icons=true&theme=react)](https://github.com/Furkan418/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan418&layout=compact&show_icons=true&theme=react)](https://github.com/Furkan418/github-readme-stats&hide_border=true&show_icons=true&langs_count=5)
 
 <p>My Tools :<p/>
 <p align="bottom">
